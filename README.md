@@ -1,9 +1,9 @@
 # Python Algorithms And Data Structures
-![](https://img.shields.io/badge/Python-3.10.0-blue.svg)
+![](https://img.shields.io/badge/Python-3.11.0-blue.svg)
 
 This repository is for study purposes only.
 
-## How to run
+## How To Run
 
 ```
 git clone git@github.com:niltonpimentel02/data_structures.git data_structures
